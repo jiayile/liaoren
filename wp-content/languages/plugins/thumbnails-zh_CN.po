@@ -1,0 +1,88 @@
+# Translation of 翻译WordPress插件 - Thumbnails in Chinese (China)
+# This file is distributed under the same license as the 翻译WordPress插件 - Thumbnails package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-18 17:22:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: 翻译WordPress插件 - Thumbnails\n"
+
+#. Plugin Name of the plugin
+msgid "Thumbnails"
+msgstr "缩略图"
+
+#: admin/options.php:34
+msgid "Subscribe"
+msgstr "订阅"
+
+#: admin/options.php:60
+msgid "Configuration"
+msgstr "配置"
+
+#: admin/options.php:82 admin/options.php:128
+msgid "Read more"
+msgstr "继续阅读"
+
+#: admin/options.php:134
+msgid "Save"
+msgstr "保存"
+
+#: admin/options.php:122
+msgid "Process even the core sizes"
+msgstr "甚至处理核心尺寸"
+
+#: admin/options.php:110
+msgid "Crop vertical alignment"
+msgstr "作物垂直对齐"
+
+#: admin/options.php:98
+msgid "Crop horizontal alignment"
+msgstr "作物水平对齐"
+
+#: admin/options.php:93
+msgid "Cache folder:"
+msgstr "缓存文件夹："
+
+#: admin/options.php:87
+msgid "Enable on the fly thumbnail generation"
+msgstr "即时启用缩略图生成"
+
+#: admin/options.php:81
+msgid "When a featured image is extracted by this plugin, make it persistent to improve performances"
+msgstr "当此插件提取了特色图片时，请使其永久显示以提高性能"
+
+#: admin/options.php:75
+msgid "Auto feature image persistence"
+msgstr "自动特征图像持久化"
+
+#: admin/options.php:66
+msgid "Featured image auto selection"
+msgstr "特色图片自动选择"
+
+#: admin/options.php:51
+msgid "Other useful plugins"
+msgstr "其他有用的插件"
+
+#: admin/options.php:42
+msgid "Please take <strong>few seconds</strong> to read the <a href=\"%s\" target=\"_blank\">Thumbnails official page</a>."
+msgstr "请花费<strong>几秒钟</strong>来阅读<a href=\"%s\" target=\"_blank\">Thumbnails官方页面</a>."
+
+#. Author URI of the plugin
+msgid "http://www.satollo.net"
+msgstr "http://www.satollo.net"
+
+#. Author of the plugin
+msgid "Stefano Lissa"
+msgstr "Stefano Lissa"
+
+#. Description of the plugin
+msgid "Enhances the WordPress thumbnail functions generating and caching thumbnails of any size."
+msgstr "增强了WordPress缩略图功能，可以生成和缓存任何大小的thumbnails."
+
+#. Plugin URI of the plugin
+msgid "http://www.satollo.net/plugins/thumbnails"
+msgstr "http://www.satollo.net/plugins/thumbnails"
