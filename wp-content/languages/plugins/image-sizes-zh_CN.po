@@ -1,0 +1,324 @@
+# Translation of 翻译WordPress插件 - Stop Generating Unnecessary Thumbnails (Formerly Stop Generating Image Sizes) in Chinese (China)
+# This file is distributed under the same license as the 翻译WordPress插件 - Stop Generating Unnecessary Thumbnails (Formerly Stop Generating Image Sizes) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-22 20:09:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: 翻译WordPress插件 - Stop Generating Unnecessary Thumbnails (Formerly Stop Generating Image Sizes)\n"
+
+#: templates/promotion-plugin.php:16
+msgid "Download"
+msgstr "下载"
+
+#: templates/promotion-plugin.php:15
+msgid "Demo"
+msgstr "演示"
+
+#: templates/promotion-plugin.php:14
+msgid "Read More"
+msgstr "阅读更多"
+
+#: src/Settings.php:112
+msgid "Settings"
+msgstr "设置"
+
+#: templates/settings/disable-sizes.php:58 views/settings/disable-sizes.php:71
+msgid "Yes"
+msgstr "是"
+
+#: templates/settings/disable-sizes.php:51
+#: templates/settings/disable-sizes.php:58 views/settings/disable-sizes.php:65
+#: views/settings/disable-sizes.php:71
+msgid "No"
+msgstr "无"
+
+#: templates/settings/disable-sizes.php:49
+#: templates/settings/disable-sizes.php:50 views/settings/disable-sizes.php:63
+#: views/settings/disable-sizes.php:64
+msgid "auto"
+msgstr "自动"
+
+#: templates/settings/disable-sizes.php:48 views/settings/disable-sizes.php:62
+msgid "original"
+msgstr "原图"
+
+#: templates/settings/disable-sizes.php:47 views/settings/disable-sizes.php:61
+msgid "Original Image"
+msgstr "原始图像"
+
+#: templates/settings/disable-sizes.php:40 views/settings/disable-sizes.php:49
+msgid "Height (px)"
+msgstr "高度 (px)"
+
+#: templates/settings/disable-sizes.php:39 views/settings/disable-sizes.php:48
+msgid "Width (px)"
+msgstr "宽度（px）"
+
+#: templates/settings/disable-sizes.php:38 views/settings/disable-sizes.php:47
+msgid "Type"
+msgstr "类型"
+
+#: templates/settings/disable-sizes.php:37 views/settings/disable-sizes.php:46
+msgid "Name"
+msgstr "名称"
+
+#: templates/settings/disable-sizes.php:36
+msgid "Enable"
+msgstr "启用"
+
+#: templates/settings/disable-sizes.php:19 views/settings/disable-sizes.php:24
+msgid "Custom"
+msgstr "自定义"
+
+#: templates/settings/disable-sizes.php:15 views/settings/disable-sizes.php:17
+msgid "Default"
+msgstr "默认"
+
+#: templates/settings/disable-sizes.php:11 views/settings/disable-sizes.php:10
+msgid "All"
+msgstr "所有"
+
+#: templates/settings/disable-sizes.php:5
+msgid "You currently have <strong>%1$d thumbnails</strong> registered. It means, if you upload an image, it may generate up to %1$d duplicates of that image. Select the sizes from the list below that you want to disable from generating."
+msgstr "您当前已注册<strong>%1$d个缩略图</strong>.这意味着，如果您上传图片，则最多可以生成该图片的%1$d个副本。从下面的列表中选择要禁用的大小。"
+
+#: templates/promotion-plugin.php:12
+msgid "This is the plugin you have been waiting for for ages."
+msgstr "这是你多年来一直在等待的插件。"
+
+#: templates/promotion-plugin.php:11
+msgid "No coding required"
+msgstr "无需编码"
+
+#: templates/promotion-plugin.php:10
+msgid "E.g. when they <strong>log in to any one of your sites</strong>, do you want it so that they <strong>get logged in to other sites</strong> automatically?"
+msgstr "例如，当他们<strong>登录到您的任何一个站点时</strong> ，您是否希望它们自动<strong>登录到其他站点</strong> ？"
+
+#: templates/promotion-plugin.php:2
+msgid "Share Logins Across Multiple Sites!"
+msgstr "共享多个站点的登录！"
+
+#: templates/need-help.php:36
+msgid "Send Message"
+msgstr "发送信息"
+
+#: templates/need-help.php:35
+msgid "Message Sent!"
+msgstr "信息已发出!"
+
+#: templates/need-help.php:32
+msgid "Please elaborate.."
+msgstr "请详细说明.."
+
+#: templates/need-help.php:31
+msgid "Description"
+msgstr "说明"
+
+#: templates/need-help.php:28
+msgid "What do you need help with?"
+msgstr "你有什么需要帮助的？"
+
+#: templates/need-help.php:27
+msgid "Subject"
+msgstr "邮件标题"
+
+#: templates/need-help.php:24
+msgid "Your site url"
+msgstr "您的网站网址"
+
+#: templates/need-help.php:23
+msgid "Site URL"
+msgstr "网站网址"
+
+#: templates/need-help.php:20
+msgid "Input a valid email"
+msgstr "输入有效的邮箱地址"
+
+#: templates/need-help.php:19
+msgid "Email"
+msgstr "邮箱"
+
+#: templates/need-help.php:16
+msgid "Type your name"
+msgstr "输入你的名字"
+
+#: templates/need-help.php:15
+msgid "Your Name"
+msgstr "您的名字"
+
+#: templates/need-help.php:9
+msgid "We can help! Just drop us a message, we'll get back to you shortly.."
+msgstr "我们可以帮忙！请给我们留言，我们会尽快给您回复。"
+
+#: templates/need-help.php:4
+msgid "Need help with your WordPress site?"
+msgstr "需要有关WordPress网站的帮助？"
+
+#: includes/Settings.php:112 src/Settings.php:98 src/Settings.php:113
+msgid "Help"
+msgstr "帮助"
+
+#: includes/Settings.php:103 src/Settings.php:89
+msgid "Regenerate Thumbnails"
+msgstr "重新生成缩略图"
+
+#: includes/Settings.php:32 includes/Settings.php:84 src/Settings.php:69
+msgid "Image Sizes"
+msgstr "图片尺寸"
+
+#: includes/AJAX.php:43 includes/AJAX.php:95 src/AJAX.php:43 src/AJAX.php:114
+msgid "Failed"
+msgstr "失败"
+
+#: includes/Admin.php:78 src/Admin.php:79
+#: templates/settings/regenerate-thumbnails.php:4
+#: views/settings/regenerate-thumbnails.php:4
+msgid "Regenerate"
+msgstr "重新生成"
+
+#. Description of the plugin
+msgid "So, it creates multiple thumbnails while uploading an image? Here is the solution!"
+msgstr "那么，它在上传图像时会创建多个缩略图吗？这是解决方案！"
+
+#. Plugin Name of the plugin
+msgid "Stop Generating Unnecessary Thumbnails"
+msgstr "Stop Generating Unnecessary Thumbnails （停止生成不必要的缩略图）"
+
+#: functions/helpers.php:50
+msgid "- Choose a %s -"
+msgstr "-选择%s-"
+
+#: includes/Survey.php:43
+msgid "Help us improve your experience"
+msgstr "帮助我们提高您的体验"
+
+#: includes/Survey.php:44
+msgid "We want to know what type of sites use our plugin. So that we can improve <strong>%s</strong> accordingly. Help us with your site URL and a few basic information. It doesn't include your password or any kind of sercret data. Would you like to help us?"
+msgstr "我们想知道使用我们的插件类型的网站。这样我们就可以相应地改进<strong>%s</strong>_29364__262129664_</strong>帮助我们使用您的网站URL和一些基本信息。它不包括您的密码或任何类型的SERCRET数据。你想帮助我们吗？"
+
+#: includes/Survey.php:45
+msgid "Okay. Don't bother me again!"
+msgstr "好的。不要再打扰我！"
+
+#: templates/promotion-plugin.php:4
+msgid "Do you run multiple WordPress sites and want to <strong>synchronize users' activities</strong>?"
+msgstr "您是否运行多个WordPress网站并希望<strong>同步用户的活动</strong>？"
+
+#: views/settings/help.php:26
+msgid "Something is wrong! No help found!"
+msgstr "出问题了！找不到帮助！"
+
+#: views/settings/help.php:30
+msgid "<p>If you need further assistance, please <a href=\"%s\" target=\"_blank\">reach out to us!</a></p>"
+msgstr "<p>如果您需要进一步的帮助，请<a href=\"%s\" target=\"_blank\">与我们联系！</a></p>"
+
+#. Plugin URI of the plugin
+msgid "https://codexpert.io/?utm_source=free-plugins&utm_medium=plugin-uri&utm_campaign=image-sizes"
+msgstr "https://codexpert.io/?utm_source=free-plugins&utm_medium=plugin-uri&utm_campaign=image-sizes"
+
+#. Author URI of the plugin
+msgid "https://codexpert.io/?utm_source=free-plugins&utm_medium=author-uri&utm_campaign=image-sizes"
+msgstr "https://codexpert.io/?utm_source=free-plugins&utm_medium=author-uri&utm_campaign=image-sizes"
+
+#: src/Admin.php:51
+msgid "If you like <strong>%1$s</strong>, please <a href=\"%2$s\" target=\"_blank\">leave us a %3$s rating</a> on WordPress.org! It'd motivate and inspire us to make the plugin even better!"
+msgstr "如果您喜欢<strong>%1$s</strong>,请<a href=\"%2$s\" target=\"_blank\">在WordPress.org上给我们%3$s评级</a>！这会激励并激发我们使插件变得更好！"
+
+#: views/settings/disable-sizes.php:5
+msgid "You currently have <strong>%1$d thumbnails</strong> registered. It means, if you upload an image, it'll generate %1$d duplicates of that image. Select the sizes from the list below that you want to disable from generating."
+msgstr "您当前已注册<strong>%1$d缩略图</strong>.这意味着，如果您上传图片，它将生成%1$d该图片的重复项。从下面的列表中选择要禁用的大小。"
+
+#: views/settings/disable-sizes.php:45
+msgid "Disable Thumbnail"
+msgstr "禁用缩略图"
+
+#. Author of the plugin
+msgid "codexpert"
+msgstr "codexpert"
+
+#: includes/Admin.php:79 src/Admin.php:80
+msgid "Regenerating.."
+msgstr "正在再生.."
+
+#: includes/AJAX.php:47 includes/AJAX.php:99 src/AJAX.php:47 src/AJAX.php:118
+msgid "Unauthorized"
+msgstr "未经授权"
+
+#: includes/AJAX.php:79 src/AJAX.php:93
+msgid "%d images processed."
+msgstr "%d图片已处理。"
+
+#: includes/AJAX.php:80 src/AJAX.php:94
+msgid "%d thumbnails removed."
+msgstr "%d缩略图已删除。"
+
+#: includes/AJAX.php:81 src/AJAX.php:95
+msgid "%d thumbnails regenerated."
+msgstr "%d缩略图已重新生成。"
+
+#: functions/helpers.php:108 includes/functions.php:66
+msgid "Template not found!"
+msgstr "找不到模板！"
+
+#: includes/Settings.php:59 src/Settings.php:44
+msgid "Hello %s!"
+msgstr "你好%s！"
+
+#: includes/Settings.php:63 src/Settings.php:48
+msgid "It looks like you already have disabled some thumbnails with the <strong>%s</strong> plugin. Congratulations!"
+msgstr "您似乎已使用<strong>%s</strong>插件禁用了某些缩略图。恭喜你！"
+
+#: includes/Settings.php:64 src/Settings.php:49
+msgid "Do you know, you can now regenerate thumbnaiils of your existing images?"
+msgstr "您知道吗，现在可以生成现有图像的缩略图？"
+
+#: includes/Settings.php:67 src/Settings.php:52
+msgid "Thank you for taking your decision to install the <strong>%s</strong> plugin. Congratulations!"
+msgstr "感谢您决定安装<strong>%s</strong>插件。恭喜你！"
+
+#: includes/Settings.php:68 src/Settings.php:53
+msgid "You can now prevent WordPress from generating unnecessary thumbnails when you upload an image. You just need to select the thumbnail sizes from the settings screen. And.. relax!"
+msgstr "现在，您可以阻止WordPress在上传图片时生成不必要的缩略图。您只需要从设置屏幕中选择缩略图大小即可。和..放松！"
+
+#: includes/Settings.php:73 src/Settings.php:58
+msgid "Click Here To Regenerate Thumbnails"
+msgstr "单击此处重新生成缩略图"
+
+#: includes/Settings.php:73 src/Settings.php:58
+msgid "Click Here To Disable Thumbnails"
+msgstr "单击此处禁用缩略图"
+
+#: includes/Settings.php:94 src/Settings.php:80
+msgid "Disable Sizes"
+msgstr "禁用尺寸"
+
+#: templates/settings/disable-sizes.php:25 views/settings/disable-sizes.php:34
+msgid "thumbnails disabled"
+msgstr "缩略图已禁用"
+
+#: templates/settings/disable-sizes.php:28 views/settings/disable-sizes.php:37
+msgid "thumbnails will be generated"
+msgstr "缩略图将生成"
+
+#: templates/settings/disable-sizes.php:41 views/settings/disable-sizes.php:50
+msgid "Cropped?"
+msgstr "裁剪了吗？"
+
+#: templates/settings/help.php:1
+msgid "We've prepared the basic FAQs for your. If you still need assistance with this plugin or any WordPress related tasks, please <a href=\"%s\" target=\"_blank\">reach out to us</a>."
+msgstr "我们已经为您准备了基本的常见问题解答。如果您仍然需要有关此插件或任何与WordPress相关的任务的帮助，请<a href=\"%s\" target=\"_blank\">与我们联系</a>."
+
+#: templates/settings/regenerate-thumbnails.php:1
+#: views/settings/regenerate-thumbnails.php:1
+msgid "Since you updated the thumbnails to be generated, images you'll upload in the future will generate thumbnails based on your settings. But, what about the ones you already uploaded? Click the button below and it'll regenerate thumbnails of your existing images."
+msgstr "由于您更新了要生成的缩略图，因此以后要上传的图像将根据您的设置生成缩略图。但是，您已经上传的那些呢？点击下面的按钮，它将重新生成现有图像的缩略图。"
+
+#: templates/settings/regenerate-thumbnails.php:2
+#: views/settings/regenerate-thumbnails.php:2
+msgid "Note: This feature is still in beta stage and may not work with large number of images."
+msgstr "注意：此功能仍处于测试阶段，可能无法处理大量图像。"
