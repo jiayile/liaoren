@@ -1,0 +1,472 @@
+# Translation of 翻译WordPress插件 - Imsanity in Chinese (China)
+# This file is distributed under the same license as the 翻译WordPress插件 - Imsanity package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-19 01:40:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: 翻译WordPress插件 - Imsanity\n"
+
+#: media.php:109
+msgid "Resize Image"
+msgstr "调整图像大小"
+
+#: settings.php:106 settings.php:633
+msgid "Leave a Review"
+msgstr "留下评论"
+
+#: settings.php:108
+msgid "Please wait..."
+msgstr "请稍等..."
+
+#: settings.php:631
+msgid "FAQ"
+msgstr "常见问题"
+
+#: settings.php:632
+msgid "Support"
+msgstr "帮助"
+
+#: settings.php:714
+msgid "Start Over"
+msgstr "重新开始"
+
+#: settings.php:76 settings.php:78
+msgid "Settings"
+msgstr "设置"
+
+#: settings.php:112
+msgid "Image"
+msgstr "图像"
+
+#: settings.php:265 settings.php:648
+msgid "Lazy Load"
+msgstr "延迟加载"
+
+#: settings.php:288 settings.php:296 settings.php:303 settings.php:763
+#: settings.php:772 settings.php:780
+msgid "Max Width"
+msgstr "最大宽度"
+
+#: settings.php:289 settings.php:297 settings.php:304 settings.php:764
+#: settings.php:773 settings.php:781
+msgid "Max Height"
+msgstr "最大高度"
+
+#: settings.php:352
+msgid "Update Settings"
+msgstr "更新设置"
+
+#: settings.php:832
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: settings.php:747
+msgid "The GD extension is not enabled in PHP, Imsanity may not function correctly. Enable GD or contact your web host for assistance."
+msgstr "GD扩展未在PHP中启用,Imsanity可能无法正常运行。启用GD或与您的虚拟主机联系以获得帮助。"
+
+#: settings.php:721
+msgid "Resizing..."
+msgstr "正在调整大小..."
+
+#: settings.php:718
+msgid "Searching for images. This may take a moment."
+msgstr "搜索图像。这可能需要一点时间。"
+
+#: settings.php:710
+msgid "Would you like to start back at the beginning?"
+msgstr "您想从头开始吗？"
+
+#: settings.php:707
+msgid "Stop Resizing"
+msgstr "停止调整大小"
+
+#: settings.php:699
+msgid "Continue Resizing"
+msgstr "继续调整大小"
+
+#: settings.php:697
+msgid "Start Resizing All Images"
+msgstr "开始调整所有图像的大小"
+
+#. translators: %s: List View in the Media Library
+#: settings.php:689
+msgid "You may also resize 1 or 2 images using %s to verify that everything is working properly before processing your entire library."
+msgstr "您还可以使用%s调整1或2张图像的大小，以在处理整个库之前验证一切正常。"
+
+#: settings.php:685
+msgid "It is HIGHLY recommended that you backup your images before proceeding."
+msgstr "强烈建议您先备份图像，然后再继续。"
+
+#: settings.php:675 settings.php:690
+msgid "List View in the Media Library"
+msgstr "媒体库中的列表视图"
+
+#. translators: 1: List View in the Media Library 2: the WP-CLI command
+#: settings.php:674
+msgid "You may also use %1$s to selectively resize images or WP-CLI to resize your images in bulk: %2$s"
+msgstr "您也可以使用%1$s选择性地调整图像大小，或使用WP-CLI批量调整图像大小:%2$s"
+
+#: settings.php:669
+msgid "If you have existing images that were uploaded prior to installing Imsanity, you may resize them all in bulk to recover disk space (below)."
+msgstr "如果您在安装Imsanity之前已上传了现有映像，则可以批量调整所有映像的大小以恢复磁盘空间（如下)."
+
+#: settings.php:347 settings.php:827
+msgid "Remove the large pre-scaled originals that WordPress retains for thumbnail generation."
+msgstr "删除WordPress保留用于缩略图生成的大型预缩放原件。"
+
+#: settings.php:343 settings.php:823
+msgid "Delete Originals"
+msgstr "删除原稿"
+
+#. translators: %s: link to install EWWW Image Optimizer plugin
+#: settings.php:335 settings.php:815
+msgid "Only applies to new image uploads, existing images may be converted with %s."
+msgstr "仅适用于新图片上传，现有图片可以使用%s进行转换。"
+
+#: settings.php:323 settings.php:803
+msgid "Only applies to new image uploads, existing BMP images cannot be converted or resized."
+msgstr "仅适用于新图像上传，无法转换或调整现有BMP图像的大小。"
+
+#: settings.php:111
+msgid "Resizing stopped, reload page to resume."
+msgstr "调整大小停止，重新加载页面以继续。"
+
+#: settings.php:110
+msgid "Removal Complete"
+msgstr "移除完成"
+
+#: settings.php:109
+msgid "Removal Failed"
+msgstr "移除失败"
+
+#: media.php:124
+msgid "Remove Original"
+msgstr "删除原件"
+
+#: media.php:71
+msgid "Could not retrieve file path."
+msgstr "无法检索文件路径。"
+
+#: media.php:66
+msgid "Media Cloud image"
+msgstr "媒体云映像"
+
+#: media.php:61
+msgid "WP Stateless image"
+msgstr "WP无状态图像"
+
+#: media.php:57
+msgid "Amazon S3 image"
+msgstr "Amazon S3图像"
+
+#: media.php:53
+msgid "Offloaded Media"
+msgstr "卸载的媒体"
+
+#: media.php:49
+msgid "Azure Storage image"
+msgstr "Azure存储映像"
+
+#: media.php:45
+msgid "Cloudinary image"
+msgstr "云图"
+
+#: media.php:41
+msgid "Amazon-hosted image"
+msgstr "亚马逊托管的图像"
+
+#. translators: 1: File-name of the image 2: the error message, translated
+#. elsewhere
+#: libs/utils.php:293
+msgid "File size of resized image was larger than the original"
+msgstr "调整大小后的图像的文件尺寸大于原始尺寸"
+
+#. translators: 1: File-name of the image
+#: libs/utils.php:281
+msgid "OK: %1$s resized to %2$s x %3$s"
+msgstr "OK:%1$s调整为%2$sx%3$s"
+
+#. translators: %s: File-name of the image
+#: libs/utils.php:235
+msgid "SKIPPED: %s (by user exclusion)"
+msgstr "跳过:%s(根据用户排除）"
+
+#. translators: %s: File type of the image
+#: libs/utils.php:215
+msgid "%1$s does not have an allowed file type (%2$s)"
+msgstr "%1$s没有允许的文件类型(%2$s)"
+
+#. translators: %s: File-name of the image
+#: libs/utils.php:198
+msgid "SKIPPED: %s (noresize)"
+msgstr "跳过:%s(无大小）"
+
+#: settings.php:735
+msgid "Imsanity settings have been configured by the server administrator. There are no site-specific settings available."
+msgstr "Imsanity设置已由服务器管理员配置。没有特定于站点的设置。"
+
+#: settings.php:683
+msgid "WARNING: Bulk Resize will alter your original images and cannot be undone!"
+msgstr "警告:\"批量调整大小\"将更改您的原始图像，并且无法撤消！"
+
+#: settings.php:666
+msgid "Bulk Resize Images"
+msgstr "批量调整大小图像"
+
+#: settings.php:629
+msgid "Imsanity Settings"
+msgstr "Imsanity设置"
+
+#: settings.php:405
+msgid "Imsanity network settings saved."
+msgstr "Imsanity网络设置已保存。"
+
+#: settings.php:314 settings.php:793
+msgid "Only used when resizing images, does not affect thumbnails."
+msgstr "仅在调整图像大小时使用，不会影响缩略图。"
+
+#: settings.php:313 settings.php:792
+msgid "Valid values are 1-100."
+msgstr "有效值为1-100."
+
+#: settings.php:309 settings.php:788
+msgid "JPG image quality"
+msgstr "JPG图像品质"
+
+#: settings.php:328
+msgid "Convert PNG to JPG"
+msgstr "转换PNG到JPG"
+
+#: settings.php:319
+msgid "Convert BMP to JPG"
+msgstr "将BMP转换为JPG"
+
+#: settings.php:301 settings.php:778
+msgid "Images uploaded elsewhere (Theme headers, backgrounds, logos, etc)"
+msgstr "在其他位置上传的图片（主题标题，背景，徽标等）"
+
+#: settings.php:294 settings.php:770
+msgid "Images uploaded directly to the Media Library"
+msgstr "图片直接上传到媒体库"
+
+#: settings.php:290 settings.php:765
+msgid "These dimensions are used for Bulk Resizing also."
+msgstr "这些尺寸也用于批量调整大小。"
+
+#: settings.php:289 settings.php:297 settings.php:304 settings.php:764
+#: settings.php:773 settings.php:781
+msgid "in pixels, enter 0 to disable"
+msgstr "以像素为单位，输入0以禁用"
+
+#: settings.php:286 settings.php:761
+msgid "Images uploaded within a Page/Post"
+msgstr "在页面/帖子中上传的图像"
+
+#: settings.php:282
+msgid "If you allow per-site configuration, the settings below will be used as the defaults. Single-site defaults will be set the first time you visit the site admin after activating Imsanity."
+msgstr "如果允许按站点配置，则以下设置将用作默认设置。激活Imsanity后，首次访问站点管理员时将设置单站点默认值。"
+
+#: settings.php:280
+msgid "Use global Imsanity settings (below) for all sites"
+msgstr "对所有网站使用全局Imsanity设置（如下）"
+
+#: settings.php:279
+msgid "Allow each site to configure Imsanity settings"
+msgstr "允许每个站点配置Imsanity设置"
+
+#: settings.php:276
+msgid "Global Settings Override"
+msgstr "全局设置覆盖"
+
+#: settings.php:266 settings.php:649
+msgid "WebP Conversion"
+msgstr "WebP转换"
+
+#: settings.php:264 settings.php:647
+msgid "Automatic Scaling"
+msgstr "自动缩放"
+
+#: settings.php:263 settings.php:646
+msgid "Full Compression"
+msgstr "完全压缩"
+
+#. translators: %s: link to install EWWW Image Optimizer plugin
+#: settings.php:258 settings.php:641
+msgid "Get comprehensive image optimization with %s"
+msgstr "%s获得全面的图像优化"
+
+#: settings.php:114
+msgid "There are no images that need to be resized."
+msgstr "没有需要调整大小的图像。"
+
+#: settings.php:113
+msgid "Received an invalid response, please check for errors in the Developer Tools console of your browser."
+msgstr "收到无效的回复，请在浏览器的开发人员工具控制台中检查错误。"
+
+#: settings.php:107
+msgid "Resize Selected Images"
+msgstr "调整所选图像的大小"
+
+#: settings.php:106
+msgid "Resizing Complete"
+msgstr "调整大小完成"
+
+#: settings.php:56 settings.php:251
+msgid "Imsanity Network Settings"
+msgstr "Imsanity网络设置"
+
+#: settings.php:36
+msgid "Imsanity Plugin Settings"
+msgstr "Imsanity插件设置"
+
+#. translators: %s: ID number of the image
+#: libs/utils.php:348
+msgid "ERROR: Attachment with ID of %d not found"
+msgstr "错误：找不到ID为%d的附件"
+
+#. translators: 1: File-name of the image 2: the error message, translated
+#. elsewhere
+#: libs/utils.php:308
+msgid "wp_get_image_editor missing"
+msgstr "wp_get_image_editor丢失"
+
+#. translators: 1: File-name of the image 2: the error message, translated
+#. elsewhere
+#: libs/utils.php:300
+msgid "Unknown error, resizing function returned the same filename"
+msgstr "未知错误，调整大小的函数返回了相同的文件名"
+
+#. translators: 1: File-name of the image 2: the error message, translated
+#. elsewhere
+#: libs/utils.php:293 libs/utils.php:300 libs/utils.php:308 libs/utils.php:315
+msgid "ERROR: %1$s (%2$s)"
+msgstr "错误:%1$s(%2$s)"
+
+#. translators: %s: File-name of the image
+#: libs/utils.php:226
+msgid "%s is not writable"
+msgstr "%s不可写"
+
+#. translators: 1: the image filename 2: bitrate of image
+#: libs/imagecreatefrombmp.php:176
+msgid "imagecreatefrombmp: %1$s has %2$d bits and this is not supported!"
+msgstr "imagecreatefrombmp:%1$s具有%2$d位，不支持此功能！"
+
+#. translators: %s: the image filename
+#: libs/imagecreatefrombmp.php:107
+msgid "imagecreatefrombmp: %s has not enough data!"
+msgstr "imagecreatefrombmp:%s没有足够的数据！"
+
+#. translators: %s: the image filename
+#: libs/imagecreatefrombmp.php:63
+msgid "imagecreatefrombmp: Cannot obtain filesize of %s !"
+msgstr "imagecreatefrombmp:无法获得%s的文件大小！"
+
+#. translators: %s: the image filename
+#: libs/imagecreatefrombmp.php:35
+msgid "imagecreatefrombmp: %s is not a bitmap!"
+msgstr "imagecreatefrombmp:%s不是位图！"
+
+#. translators: %s: the image filename
+#: libs/imagecreatefrombmp.php:21 libs/imagecreatefrombmp.php:27
+msgid "imagecreatefrombmp: Can not open %s!"
+msgstr "imagecreatefrombmp:无法打开%s！"
+
+#. translators: %s: the image mime type
+#: imsanity.php:355
+msgid "Imsanity was unable to process the %s file. If you continue to see this error you may need to disable the conversion option in the Imsanity settings."
+msgstr "Imsanity无法处理%s文件。如果您仍然看到此错误，则可能需要在Imsanity设置中禁用转换选项。"
+
+#: imsanity.php:331
+msgid "Unknown image type specified in imsanity_convert_to_jpg"
+msgstr "imsanity_convert_to_jpg中指定的未知图像类型"
+
+#: imsanity.php:321
+msgid "Imsanity requires the GD library to convert PNG images to JPG"
+msgstr "Imsanity需要GD库将PNG图像转换为JPG"
+
+#. translators: 1: error message 2: link to support forums
+#: imsanity.php:280
+msgid "Imsanity was unable to resize this image for the following reason: %1$s. If you continue to see this error message, you may need to install missing server components. If you think you have discovered a bug, please report it on the Imsanity support forum: %2$s"
+msgstr "Imsanity由于以下原因而无法调整该图像的大小:%1$s.如果继续看到此错误消息，则可能需要安装缺少的服务器组件。如果您认为自己已发现错误，请在Imsanity支持论坛上报告该错误:%2$s"
+
+#: class-imsanity-cli.php:111
+msgid "Finished Resizing!"
+msgstr "调整大小！"
+
+#: class-imsanity-cli.php:94
+msgid "Resize (Y/n)?"
+msgstr "调整大小（是/否)？"
+
+#. translators: %s: File-name of the image
+#: class-imsanity-cli.php:86 libs/utils.php:323
+msgid "SKIPPED: %s (Resize not required)"
+msgstr "跳过:%s(无需调整大小）"
+
+#: class-imsanity-cli.php:63
+msgid "Continue?"
+msgstr "继续？"
+
+#. translators: %d: number of images
+#: class-imsanity-cli.php:62 class-imsanity-cli.php:67
+msgid "There are %d images to check."
+msgstr "有%d张图像要检查。"
+
+#: class-imsanity-cli.php:57
+msgid "There are no images to resize."
+msgstr "没有要调整大小的图像。"
+
+#. translators: 1: width in pixels, 2: height in pixels
+#: class-imsanity-cli.php:50
+msgid "Resizing images to %1$d x %2$d"
+msgstr "将图像大小调整为%1$dx%2$d"
+
+#: class-imsanity-cli.php:45
+msgid "It is also recommended that you initially resize only 1 or 2 images and verify that everything is working properly before processing your entire library."
+msgstr "还建议您在处理整个库之前，最初只调整1或2张图像的大小，并确认一切正常。"
+
+#: class-imsanity-cli.php:44
+msgid "It is HIGHLY recommended that you backup your wp-content/uploads folder before proceeding. You will be prompted before resizing each image."
+msgstr "强烈建议您在继续操作之前备份wp-content/uploads文件夹。在调整每个图像的大小之前将提示您。"
+
+#: class-imsanity-cli.php:43
+msgid "Bulk Resize will alter your original images and cannot be undone!"
+msgstr "批量调整大小会更改您的原始图像，并且无法撤消！"
+
+#: ajax.php:135 ajax.php:162
+msgid "Missing ID Parameter"
+msgstr "缺少ID参数"
+
+#: ajax.php:33
+msgid "Access token has expired, please reload the page."
+msgstr "访问令牌已过期，请重新加载页面。"
+
+#: ajax.php:23
+msgid "Administrator permission is required"
+msgstr "需要管理员权限"
+
+#. Author URI of the plugin
+msgid "https://ewww.io/"
+msgstr "https://ewww.io/"
+
+#. Author of the plugin
+msgid "Exactly WWW"
+msgstr "Exactly WWW"
+
+#. Description of the plugin
+msgid "Imsanity stops insanely huge image uploads"
+msgstr "Imsanity停止疯狂上传大量图片"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/imsanity/"
+msgstr "https://wordpress.org/plugins/imsanity/"
+
+#. Plugin Name of the plugin
+#: media.php:15 settings.php:37 settings.php:57
+msgid "Imsanity"
+msgstr "Imsanity"
